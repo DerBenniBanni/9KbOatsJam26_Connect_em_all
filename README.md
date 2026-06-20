@@ -3,7 +3,7 @@ Jam entry for Where is my oats 9kb gamejam 2026
 
 **Theme:** "Connections"
 
-**Game size (zipped, total):** 3,58 KB (no further compression like roadroller used, only zipped)
+**Game size (zipped, total):** 3,58 KB - see zipfile in [/dist](dist) (no further compression like roadroller used, only zipped)
 
 **How to play:** 
 
